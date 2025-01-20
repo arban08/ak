@@ -1,2 +1,3 @@
 # ak
-my first project
+my first git respectory
+author arban khan
